@@ -6,4 +6,3 @@ Implementing 9 DOF Inertial Measurement Unit (IMU) sensor fusion using Extended 
 
 
 ## Magnetometer Calibration
-![Uploading calibration.png…]()
